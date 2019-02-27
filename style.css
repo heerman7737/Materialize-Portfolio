@@ -3,3 +3,14 @@ img {
     height: auto;
     margin-top: 30px;
 }
+.brand-logo{
+    background-color: #44aaa5;
+    padding-left:10px !important;
+    padding-right:10px !important;
+}
+li a{
+    color:gray!important;
+}
+.page-footer{
+    background-color: #44aaa5;
+}
